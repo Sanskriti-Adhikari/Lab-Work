@@ -1,0 +1,16 @@
+Book_ID,Year_Published,Price,Pages,Genre
+1,2001,350,180,Fiction
+2,2003,420,220,Education
+3,2005,500,350,Science
+4,2007,280,150,Poetry
+5,2009,600,420,Science
+6,2011,450,300,Education
+7,2013,700,500,Technology
+8,2015,320,200,Fiction
+9,2017,550,380,Technology
+10,2019,480,330,Science
+11,2020,650,450,Technology
+12,2021,400,250,Education
+13,2022,520,360,Fiction
+14,2023,750,550,Technology
+15,2024,300,170,Poetry
