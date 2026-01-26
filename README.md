@@ -7,8 +7,8 @@ The work is categorized into Python basics and data visualization using Matplotl
 
 ## Repository Structure
 
+```
 Lab Work
-│
 ├── python basics assignment
 │ ├── student-record.py
 │ ├── info.csv
@@ -17,7 +17,7 @@ Lab Work
 └── matplotlib assignment
 ├── code.py
 └── book_data.csv
-
+```
 
 ---
 
